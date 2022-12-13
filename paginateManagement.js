@@ -72,6 +72,6 @@ function paginateManagement(items, rows) {
 }
 module.exports = paginateManagement
 // export { paginateManagement }
-const { showPageNumbers, pageHandler } = paginateManagement(products, 10)
+// const { showPageNumbers, pageHandler } = paginateManagement(products, 10)
 // showPageNumbers()
 // pageHandler()
